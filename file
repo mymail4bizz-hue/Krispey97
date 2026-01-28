@@ -1,0 +1,4 @@
+cd /path/to/true-only-global-bundle
+git add .
+git commit -m "🚀 Full True-Only Global Production Bundle — live deployment"
+git push -u origin main
